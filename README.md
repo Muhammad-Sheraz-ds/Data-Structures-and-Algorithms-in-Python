@@ -264,10 +264,10 @@ This repository is open source and is available under the [MIT License](LICENSE)
 
 ## Contact
 
-If you have any questions or require assistance, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or require assistance, feel free to reach out at [sheraz601050@gmail.com](mailto:sheraz601050@gmail.com).
 
 ---
 
 This repository is your passport to the FAANG league. It has been meticulously crafted to provide you with an elite understanding of data structures and algorithms. Use it wisely, and go conquer the world of technology!
 
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.data-structures-algorithms)](https://github.com/your-username/data-structures-algorithms)
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MuhammadSheraza002.data-structures-algorithms)](https://github.com/MuhammadSheraza002/data-structures-algorithms)
