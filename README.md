@@ -2,9 +2,9 @@
   <img src="your-profile-logo.png" alt="Data Structures and Algorithms" width="200"/>
 </p>
 
-# Comprehensive-Data-Structures-and-Algorithms-in-Python
+# Comprehensive Data Structures and Algorithms in Python
 
-Welcome to the Comprehensive Data Structures and Algorithms in Python repository, a comprehensive and advanced resource designed to help you master the core concepts that are highly sought after by FAANG (Facebook, Apple, Amazon, Netflix, Google) companies. With this repository, you will gain an in-depth understanding of data structures and algorithms, setting you apart as a top-tier technical candidate.
+Welcome to the Comprehensive Data Structures and Algorithms in Python repository by MuhammadSheraza002. This repository is designed to be a comprehensive and advanced resource, offering an in-depth understanding of data structures and algorithms, aimed at helping you excel in technical interviews and compete for positions at FAANG (Facebook, Apple, Amazon, Netflix, Google) and other top-tier tech companies.
 
 ## Table of Contents
 
@@ -12,6 +12,7 @@ Welcome to the Comprehensive Data Structures and Algorithms in Python repository
 - [Why Data Structures and Algorithms Matter](#why-data-structures-and-algorithms-matter)
 - [Data Structures](#data-structures)
   - [Lists](#lists)
+  - [Arrays](#arrays)
   - [Stacks](#stacks)
   - [Queues](#queues)
   - [Linked Lists](#linked-lists)
@@ -54,7 +55,7 @@ Welcome to the Comprehensive Data Structures and Algorithms in Python repository
 
 ## Introduction
 
-Welcome to the elite league of developers! This repository is a testament to your commitment to excellence, aimed at providing a deep understanding of data structures and algorithms using the Python programming language. As you dive into this resource, you are preparing yourself to compete at the highest levels in the technology industry.
+Welcome to the elite league of developers! This repository, owned by MuhammadSheraza002, is a testament to your commitment to excellence. It's aimed at providing you with a deep understanding of data structures and algorithms using the Python programming language. As you dive into this resource, you are preparing yourself to compete at the highest levels in the technology industry.
 
 ## Why Data Structures and Algorithms Matter
 
@@ -76,6 +77,11 @@ We start our journey into advanced data structures with:
 
 - **Singly Linked Lists**: Comprehensive explanations and Python implementations.
 - **Doubly Linked Lists**: Detailed implementations and advanced operations.
+
+### Arrays
+
+- **Arrays**: Master the fundamental data structure for storing and manipulating ordered collections of data.
+- **Array Operations**: Dive deep into common array operations, including insertion, deletion, and searching.
 
 ### Stacks
 
