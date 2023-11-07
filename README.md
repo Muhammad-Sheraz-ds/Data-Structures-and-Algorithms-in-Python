@@ -4,7 +4,7 @@
 
 # Comprehensive Data Structures and Algorithms in Python
 
-Welcome to the Comprehensive Data Structures and Algorithms in Python repository by MuhammadSheraza002. This repository is designed to be a comprehensive and advanced resource, offering an in-depth understanding of data structures and algorithms, aimed at helping you excel in technical interviews and compete for positions at FAANG (Facebook, Apple, Amazon, Netflix, Google) and other top-tier tech companies.
+Welcome to the Comprehensive Data Structures and Algorithms in Python repository by Muhammad Sheraz. This repository is designed to be a comprehensive and advanced resource, offering an in-depth understanding of data structures and algorithms, aimed at helping you excel in technical interviews and compete for positions at FAANG (Facebook, Apple, Amazon, Netflix, Google) and other top-tier tech companies.
 
 ## Table of Contents
 
@@ -65,9 +65,9 @@ You're on the path to FAANG companies, and here's why mastering data structures 
 
 - **Problem Solving**: These concepts are the tools you'll use to tackle complex real-world problems, from optimizing delivery routes to analyzing vast datasets.
 
-- **Technical Interviews**: FAANG interviews are rigorous and challenging. These skills will give you the edge in solving their complex coding challenges.
+- **Technical Interviews**: Coding interviews are rigorous and challenging. These skills will give you the edge in solving complex coding challenges.
 
-- **Foundation for Learning**: These fundamental concepts form the basis for more advanced areas like machine learning, artificial intelligence, and software development.
+- **Foundation for Learning**: These fundamental concepts form the basis for more advanced areas like machine learning, artificial intelligence, and Data Science.
 
 ## Data Structures
 
@@ -254,19 +254,12 @@ To harness the full power of this resource:
 
 1. Clone this repository to your local machine using `git clone`.
 2. Explore the relevant data structure or algorithm folder that interests you.
-3. Review the provided code examples, explanations, and exercises.
+3. Review the provided code examples.
 4. Run the Python code examples to see how the concepts work in practice.
 5. Complete the exercises to gain hands-on experience and reinforce your understanding.
 6. Utilize the content as a reference, study guide, or teaching material for coding interviews, technical challenges, or personal projects.
 7. Contribute, report issues, or suggest improvements to elevate the quality of this repository further.
 
-## Contributing
-
-Your contributions are invaluable! If you have suggestions, enhancements, or wish to add more advanced data structures and algorithms in Python to this repository, please consult the [contributing guidelines](CONTRIBUTING.md).
-
-## License
-
-This repository is open source and is available under the [MIT License](LICENSE). You are free to use, modify, and share the content within the terms of the license.
 
 ## Contact
 
