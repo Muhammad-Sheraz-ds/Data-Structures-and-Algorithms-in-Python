@@ -267,6 +267,15 @@ If you have any questions or require assistance, feel free to reach out at [sher
 
 ---
 
-This repository is your passport to the FAANG league. It has been meticulously crafted to provide you with an elite understanding of data structures and algorithms. Use it wisely, and go conquer the world of technology!
+This repository  has been meticulously crafted to provide you with an elite understanding of data structures and algorithms. Use it wisely, and go conquer the world of technology!
 
 [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MuhammadSheraza002.data-structures-algorithms)](https://github.com/MuhammadSheraza002/data-structures-algorithms)
+
+
+## Get in Touch
+
+If you have questions, suggestions, or feedback, feel free to create an issue or reach out to me via email at [sheraz601050@gmail.com].
+
+## Happy Coding! 🚀
+
+I hope you find this repository helpful in your journey to mastering data structures and algorithms. Keep learning, practicing, and happy coding! 😄
