@@ -69,12 +69,58 @@ Here's an example of how to use the `MyLinkedList` class:
 ```python
 from my_linked_list import MyLinkedList
 
+# Initialize a new linked list
 my_linked_list = MyLinkedList()
 
-# Appending values to the linked list
+# Append values to the linked list
 my_linked_list.append(10)
 my_linked_list.append(20)
 my_linked_list.append(30)
 
-# Displaying the linked list
+# Display the linked list
+print("Linked List after appending values:")
 my_linked_list.display()
+
+# Insert a value at the beginning
+my_linked_list.insert_at_beginning(5)
+print("\nLinked List after inserting 5 at the beginning:")
+my_linked_list.display()
+
+# Insert a value at a specific index (e.g., index 2)
+my_linked_list.insert_at_index(15, 2)
+print("\nLinked List after inserting 15 at index 2:")
+my_linked_list.display()
+
+# Insert a value at the end
+my_linked_list.insert_at_end(40)
+print("\nLinked List after inserting 40 at the end:")
+my_linked_list.display()
+
+# Update a node at a specific index (e.g., update value at index 1 to 25)
+my_linked_list.update_node(25, 1)
+print("\nLinked List after updating value at index 1 to 25:")
+my_linked_list.display()
+
+# Remove the first node
+my_linked_list.remove_first_node()
+print("\nLinked List after removing the first node:")
+my_linked_list.display()
+
+# Remove the last node
+my_linked_list.remove_last_node()
+print("\nLinked List after removing the last node:")
+my_linked_list.display()
+
+# Remove a node at a specific index (e.g., index 2)
+my_linked_list.remove_at_index(2)
+print("\nLinked List after removing the node at index 2:")
+my_linked_list.display()
+
+# Remove a node with a specific value (e.g., remove value 15)
+my_linked_list.remove_node(15)
+print("\nLinked List after removing a node with value 15:")
+my_linked_list.display()
+
+# Get the size of the linked list
+size = my_linked_list.size_of_linked_list()
+print(f"\nSize of the linked list: {size}")
