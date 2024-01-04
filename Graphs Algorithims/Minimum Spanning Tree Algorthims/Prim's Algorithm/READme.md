@@ -6,17 +6,20 @@ Prim's Algorithm is a popular greedy algorithm used for finding the minimum span
 
 ## Prim's Algorithm Pseudocode
 
-Prim's Algorithm(graph):
-    Initialize an empty set MST to store the minimum spanning tree
-    Choose a starting vertex, add it to MST
-    Initialize a priority queue (min heap) with edges and their weights from the starting vertex
-    while MST does not include all vertices:
-        Select the edge with the minimum weight from the priority queue
-        If adding the selected edge does not create a cycle in MST:
-            Add the edge to MST
-            Add the destination vertex of the edge to MST
-            Enqueue the edges connected to the destination vertex with their weights
-    return MST
+1. **Initialize an empty set MST** to store the minimum spanning tree.
+
+2. **Choose a starting vertex** and add it to MST.
+
+3. **Initialize a priority queue (min heap)** with edges and their weights from the starting vertex.
+
+4. **While MST does not include all vertices:**
+   - Select the edge with the minimum weight from the priority queue.
+   - If adding the selected edge does not create a cycle in MST:
+     - Add the edge to MST.
+     - Add the destination vertex of the edge to MST.
+     - Enqueue the edges connected to the destination vertex with their weights.
+
+5. **Return MST.**
 
 
 ### Purpose
