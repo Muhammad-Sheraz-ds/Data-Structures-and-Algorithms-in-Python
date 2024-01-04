@@ -26,6 +26,15 @@ Prim's Algorithm is a popular greedy algorithm used for finding the minimum span
 
 The main purpose of Prim's Algorithm is to find a subset of edges that forms a tree including every vertex, where the total weight of all the edges in the tree is minimized. This helps in optimizing various network-related problems, ensuring that the connected infrastructure is both cost-effective and efficient.
 
+### Time Complexity
+
+The time complexity of Prim's Algorithm is O(E log V), where E is the number of edges and V is the number of vertices in the graph. This is mainly due to the priority queue operations.
+
+### Space Complexity
+
+The space complexity of Prim's Algorithm is O(V + E), where V is the number of vertices and E is the number of edges in the graph. This accounts for the space used to store the minimum spanning tree (MST) and the priority queue.
+
+
 ### Applications
 
 Prim's Algorithm finds applications in various domains:
@@ -37,13 +46,3 @@ Prim's Algorithm finds applications in various domains:
 - **Maze Generation**: Creating mazes with corridors that are as short as possible.
 
 - **Circuit Design**: Optimizing the layout of electronic circuits.
-
-
-### Time Complexity
-
-The time complexity of Prim's Algorithm is O(E log V), where E is the number of edges and V is the number of vertices in the graph. This is mainly due to the priority queue operations.
-
-### Space Complexity
-
-The space complexity of Prim's Algorithm is O(V + E), where V is the number of vertices and E is the number of edges in the graph. This accounts for the space used to store the minimum spanning tree (MST) and the priority queue.
-
