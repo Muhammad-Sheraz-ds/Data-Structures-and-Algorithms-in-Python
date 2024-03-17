@@ -3,7 +3,7 @@
 Welcome to the Comprehensive Data Structures and Algorithms in Python repository by Muhammad Sheraz. This repository is designed to be a comprehensive and advanced resource, offering an in-depth understanding of data structures and algorithms, aimed at helping you excel in technical interviews and compete for positions at FAANG (Facebook, Apple, Amazon, Netflix, Google) and other top-tier tech companies.
 
 <div align="center">
-  <img height="500px%" src='Images/ds2.jpg'>
+  <img height="400px%" src='Images/ds2.jpg'>
   
   </div>
 
