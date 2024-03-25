@@ -3,7 +3,7 @@
 A stack is a fundamental data structure that follows the Last In, First Out (LIFO) principle. In a stack, elements are added and removed from the same end, typically referred to as the "top" of the stack. Stacks are widely used in computer science and have applications in various areas.
 
 
-<img  src='../../Images/stack2.jpg'>
+<img  src='../Images/stack2.jpg'>
 
 
 ### Applications:
